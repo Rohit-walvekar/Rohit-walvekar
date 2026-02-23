@@ -1,45 +1,61 @@
-<h1 align="center">Hi 👋, I'm Rohit Walvekar</h1>
-<h3 align="center">Frontend Developer | JavaScript | GSAP | UI Animations</h3>
+# Rohit Walvekar
+
+BCA Student | Aspiring Software Developer  
+Focused on Web Development and Java-based Applications.
 
 ---
 
-### 🚀 About Me
+## About Me
 
-* 🎓 BCA Final Year Student
-* 💻 I build interactive websites & mini web applications
-* 🌱 Currently learning advanced JavaScript & backend integration
-* 🎯 Goal: Frontend Developer / Web Developer Role
-
----
-
-### 🛠 Tech Stack
-
-HTML | CSS | JavaScript | GSAP | Bootstrap | Tailwind | PHP | MySQL | Java | Git
+I am a BCA student with a strong foundation in programming and database concepts.  
+I enjoy building responsive web applications and continuously improving my problem-solving skills.  
+Currently preparing for technical placements and working on real-world projects.
 
 ---
 
-### 🔥 Featured Projects
+## Technical Skills
 
-📌 Programming Notes & Quiz System
-Full-stack web app with authentication, admin panel & quiz module
+### Programming Languages
+- C
+- C++
+- Java
+- JavaScript
 
-📌 GSAP Animation Website
-Modern animated landing page using scroll based animations
+### Web Technologies
+- HTML5
+- CSS3
+- Responsive Design
+- Basic GSAP Animations
 
-📌 Student Utility Tools
-Collection of small web tools built using JavaScript
+### Backend & Database
+- Core Java
+- Advanced Java (Fundamentals)
+- PHP
+- MySQL
 
 ---
 
-### 📊 GitHub Stats
+## Featured Projects
 
-![stats](https://github-readme-stats.vercel.app/api?username=Rohit-walvekar\&show_icons=true\&theme=tokyonight)
+### Simon Game (Responsive + SEO Optimized)
+- Built using HTML, CSS, and JavaScript
+- Fully responsive for mobile, tablet, and desktop
+- Clean UI with structured game logic
+- Live Demo: (Add your Netlify link)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-walvekar\&layout=compact\&theme=tokyonight)
+### Stone Paper Scissors Game
+- Interactive web-based game
+- DOM manipulation and event handling
+- Structured and readable JavaScript code
+
+### Programming Notes Desktop Application
+- Multi-language programming notes
+- Login and Signup functionality
+- Database connectivity
 
 ---
 
-### 📫 Contact Me
+## Contact
 
-📧 [rohitwalvekar07@gmail.com](mailto:rohitwalvekar07@gmail.com)
-🔗 LinkedIn: (add link)
+LinkedIn: https://www.linkedin.com/in/rohit-walvekar-25a377384/
+Email: rohitwalvekar07@gmail.com
