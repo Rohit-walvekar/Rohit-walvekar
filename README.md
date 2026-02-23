@@ -41,12 +41,13 @@ Currently preparing for technical placements and working on real-world projects.
 - Built using HTML, CSS, and JavaScript
 - Fully responsive for mobile, tablet, and desktop
 - Clean UI with structured game logic
-- Live Demo: (Add your Netlify link)
+- Live Demo: https://6996e7ea1fc39d79ae954d7d--memoflash.netlify.app/
 
 ### Stone Paper Scissors Game
 - Interactive web-based game
 - DOM manipulation and event handling
 - Structured and readable JavaScript code
+- Live Demo: https://696a3338f17ec7c672e22512--stonepaperscissor-mania.netlify.app/
 
 ### Programming Notes Desktop Application
 - Multi-language programming notes
