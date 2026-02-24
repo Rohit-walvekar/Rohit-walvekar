@@ -58,5 +58,5 @@ Currently preparing for technical placements and working on real-world projects.
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/rohit-walvekar-25a377384/
+LinkedIn: https://www.linkedin.com/in/rohit-walvekar/
 Email: rohitwalvekar07@gmail.com
