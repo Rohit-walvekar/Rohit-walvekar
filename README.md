@@ -22,6 +22,7 @@ Currently preparing for technical placements and working on real-world projects.
 - JavaScript
 
 ### Web Technologies
+- React.js
 - HTML5
 - CSS3
 - Responsive Design
@@ -30,8 +31,11 @@ Currently preparing for technical placements and working on real-world projects.
 ### Backend & Database
 - Core Java
 - Advanced Java (Fundamentals)
+- Node.js
+- Express.js
 - PHP
 - MySQL
+- MongoDB
 
 ---
 
