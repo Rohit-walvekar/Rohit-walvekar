@@ -1,4 +1,4 @@
-# Hi there, I'm Rohit Walvekar
+# Hi there, I am Rohit Walvekar
 
 ### BCA Student | MERN Stack Enthusiast | Aspiring Software Developer
 
