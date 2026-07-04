@@ -1,15 +1,24 @@
-# Hi, I am Rohit Walvekar...
+# Hi, I'm Rohit Walvekar
 
-### BCA Student | MERN Stack Enthusiast | Aspiring Software Developer
+## Software Developer | BCA Graduate | MERN Stack Developer
 
-I am a **Bachelor of Computer Applications (BCA)** student passionate about building modern web applications and continuously expanding my technical expertise. I enjoy transforming ideas into functional projects while strengthening my problem-solving and development skills.
+I am a **BCA Graduate** passionate about building modern, user-friendly, and scalable web applications. I enjoy solving real-world problems through technology and continuously improving my skills by working on practical projects.
 
 Currently, I am focused on:
 
-* Learning and building projects using the **MERN Stack**
-* Strengthening **JavaScript, Core Java, and Database concepts**
-* Preparing for **technical placements and software development roles**
-* Developing real-world applications with clean UI and efficient backend systems
+* Building full-stack applications using the **MERN Stack**
+* Strengthening **Data Structures & Algorithms, JavaScript, Java, SQL, and Database Management**
+* Learning industry best practices for scalable web development
+* Preparing for software developer interviews and contributing to real-world projects
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)**
+
+* CGPA: **8.99**
+* Strong foundation in Programming, Web Development, Database Management, and Software Engineering.
 
 ---
 
@@ -27,73 +36,108 @@ Currently, I am focused on:
 * React.js
 * HTML5
 * CSS3
+* Tailwind CSS
+* Bootstrap
 * Responsive Web Design
-* Basic GSAP Animations
+* GSAP Animations
 
 ### Backend Development
 
 * Node.js
 * Express.js
 * PHP
-* Core Java
-* Advanced Java (Fundamentals)
+* REST APIs
 
 ### Databases
 
 * MongoDB
 * MySQL
 
-### Tools & Platforms
+### Tools & Technologies
 
 * Git
 * GitHub
-* Netlify
 * VS Code
+* Netlify
+* ImageKit
+* Postman
 
 ---
 
-## Featured Projects
+# Featured Projects
 
-### Resumify – Resume Builder Application
+## Resumify – AI Resume Builder
 
-* Developed a web application to help users create professional resumes efficiently
-* Designed an intuitive and responsive user interface for a seamless experience
-* Implemented dynamic form handling and structured resume generation
-* Focused on improving usability and simplifying the resume creation process
+A full-stack MERN application that helps users create professional resumes quickly and efficiently.
 
----
+### Features
 
-### Noted – Notes Management Application
+* AI-powered professional summary generation
+* Multiple modern resume templates
+* Live resume preview
+* Image upload using ImageKit
+* Responsive user interface
+* Clean and intuitive user experience
 
-* Built a notes management platform for creating, organizing, editing, and deleting notes
-* Implemented efficient data handling and user-friendly workflows
-* Focused on clean architecture and maintainable code practices
-* Enhanced productivity by providing a simple and organized note-taking experience
-
----
-
-### Programming Notes Desktop Application
-
-* Developed a desktop application providing programming notes for multiple languages
-* Implemented Login and Signup functionality with database connectivity
-* Designed to support self-paced learning through easy access to educational content
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, ImageKit
 
 ---
 
-## Current Goals
+## Noted – Notes Management Platform
 
-* Build and deploy full-stack MERN applications
-* Improve problem-solving and technical interview skills
-* Contribute to real-world software projects
-* Secure opportunities in software development
+A web application for storing and managing study notes with a clean and user-friendly interface.
+
+### Features
+
+* User Authentication
+* Upload and manage notes
+* Quiz functionality
+* Admin dashboard
+* Feedback system
+* MySQL database integration
+
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
+
+---
+
+## Programming Notes Desktop Application
+
+Desktop software developed for students to access programming notes in one place.
+
+### Features
+
+* Login & Signup
+* Database connectivity
+* Programming notes for multiple languages
+* Simple and intuitive desktop interface
+
+---
+
+## Currently Learning
+
+* Advanced MERN Stack Development
+* Data Structures & Algorithms
+* System Design Basics
+* REST API Development
+* Clean Code Principles
+
+---
+
+## Career Goals
+
+* Build scalable full-stack web applications
+* Contribute to open-source projects
+* Improve problem-solving and software engineering skills
+* Start my career as a Software Developer
+* Continuously learn modern technologies
 
 ---
 
 ## Connect With Me
 
-* LinkedIn: www.linkedin.com/in/rohit-walvekar
-* Email: rohitwalvekar07@gmail.com
-* Portfolio : https://portfolio-rohitwalvekar.netlify.app/
+* LinkedIn: [www.linkedin.com/in/rohit-walvekar](http://www.linkedin.com/in/rohit-walvekar)
+* Portfolio: https://portfolio-rohitwalvekar.netlify.app/
+* Email: [rohitwalvekar07@gmail.com](mailto:rohitwalvekar07@gmail.com)
 
 ---
 
