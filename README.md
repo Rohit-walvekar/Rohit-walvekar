@@ -137,7 +137,7 @@ Desktop software developed for students to access programming notes in one place
 
 * LinkedIn: [www.linkedin.com/in/rohit-walvekar](http://www.linkedin.com/in/rohit-walvekar)
 * Portfolio: https://portfolio-rohitwalvekar.netlify.app/
-* Email: [rohitwalvekar07@gmail.com](mailto:rohitwalvekar07@gmail.com)
+* Email: rohitwalvekar07@gmail.com
 
 ---
 
