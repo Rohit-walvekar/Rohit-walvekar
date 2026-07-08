@@ -37,7 +37,6 @@ Currently, I am focused on:
 * HTML5
 * CSS3
 * Tailwind CSS
-* Bootstrap
 * Responsive Web Design
 * GSAP Animations
 
@@ -46,7 +45,6 @@ Currently, I am focused on:
 * Node.js
 * Express.js
 * PHP
-* REST APIs
 
 ### Databases
 
@@ -60,7 +58,6 @@ Currently, I am focused on:
 * VS Code
 * Netlify
 * ImageKit
-* Postman
 
 ---
 
@@ -135,7 +132,7 @@ Desktop software developed for students to access programming notes in one place
 
 ## Connect With Me
 
-* LinkedIn: [www.linkedin.com/in/rohit-walvekar](http://www.linkedin.com/in/rohit-walvekar)
+* LinkedIn: www.linkedin.com/in/rohit-walvekar
 * Portfolio: https://portfolio-rohitwalvekar.netlify.app/
 * Email: rohitwalvekar07@gmail.com
 
