@@ -113,7 +113,7 @@ Desktop software developed for students to access programming notes in one place
 ## Currently Learning
 
 * Advanced MERN Stack Development
-* Data Structures & Algorithms
+* Data Analytics
 * System Design Basics
 * REST API Development
 * Clean Code Principles
