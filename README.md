@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Walvekar
 
-## Software Developer | BCA Graduate | MERN Stack Developer
+## BCA Graduate(2023-26)
 
 I am a **BCA Graduate** passionate about building modern, user-friendly, and scalable web applications. I enjoy solving real-world problems through technology and continuously improving my skills by working on practical projects.
 
